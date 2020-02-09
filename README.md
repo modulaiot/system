@@ -1,2 +1,2 @@
-# system
-The Core Sytem forr Modula IOT
+# System
+The Core System for Modula IOT
